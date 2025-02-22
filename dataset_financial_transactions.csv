@@ -1,0 +1,101 @@
+transaction_id,date,customer_id,amount,category,payment_method
+1,2024-02-10,1042,97.54,Educação,Dinheiro
+2,2024-01-08,1017,457.19,Saúde,Cartão de Débito
+3,2024-01-02,1044,436.55,Educação,Dinheiro
+4,2024-02-17,1043,156.24,Transporte,Cartão de Débito
+5,2024-01-18,1041,323.09,Transporte,Pix
+6,2024-01-16,1004,308.4,Lazer,Pix
+7,2024-01-15,1038,84.89,Transporte,Cartão de Crédito
+8,2024-01-09,1040,383.63,Alimentação,Cartão de Crédito
+9,2024-02-17,1010,274.3,Saúde,Cartão de Crédito
+10,2024-01-07,1034,391.53,Saúde,Cartão de Débito
+11,2024-02-13,1046,269.87,Alimentação,Cartão de Crédito
+12,2024-02-17,1015,10.28,Lazer,Dinheiro
+13,2024-02-27,1010,168.84,Alimentação,Cartão de Débito
+14,2024-02-04,1029,19.54,Alimentação,Pix
+15,2024-01-06,1024,465.26,Saúde,Cartão de Débito
+16,2024-02-07,1017,440.57,Educação,Cartão de Crédito
+17,2024-01-28,1040,417.52,Saúde,Dinheiro
+18,2024-01-03,1044,160.68,Saúde,Dinheiro
+19,2024-01-02,1035,38.38,Transporte,Cartão de Crédito
+20,2024-01-06,1014,440.22,Alimentação,Dinheiro
+21,2024-01-14,1043,474.01,Saúde,Cartão de Débito
+22,2024-01-15,1020,51.97,Alimentação,Cartão de Débito
+23,2024-02-02,1049,248.14,Transporte,Cartão de Crédito
+24,2024-02-08,1049,43.91,Alimentação,Dinheiro
+25,2024-01-02,1003,382.7,Saúde,Pix
+26,2024-02-05,1014,385.26,Alimentação,Cartão de Débito
+27,2024-01-13,1002,72.91,Transporte,Cartão de Débito
+28,2024-02-15,1020,242.89,Educação,Cartão de Débito
+29,2024-02-11,1025,279.4,Alimentação,Cartão de Débito
+30,2024-02-14,1017,139.88,Saúde,Pix
+31,2024-02-04,1004,437.49,Transporte,Cartão de Crédito
+32,2024-01-27,1013,217.34,Saúde,Cartão de Débito
+33,2024-01-15,1036,113.78,Saúde,Dinheiro
+34,2024-01-29,1045,274.26,Alimentação,Pix
+35,2024-02-07,1020,367.67,Saúde,Cartão de Débito
+36,2024-01-18,1013,108.56,Alimentação,Dinheiro
+37,2024-02-21,1041,162.74,Educação,Cartão de Débito
+38,2024-02-25,1031,497.62,Saúde,Cartão de Crédito
+39,2024-01-01,1025,328.44,Saúde,Pix
+40,2024-02-18,1041,224.67,Saúde,Cartão de Crédito
+41,2024-02-21,1029,263.61,Lazer,Pix
+42,2024-01-11,1009,69.29,Lazer,Cartão de Débito
+43,2024-02-14,1016,120.1,Transporte,Cartão de Débito
+44,2024-01-28,1008,175.66,Lazer,Pix
+45,2024-01-22,1015,298.27,Transporte,Dinheiro
+46,2024-01-18,1047,122.76,Lazer,Dinheiro
+47,2024-01-10,1035,117.91,Educação,Cartão de Débito
+48,2024-01-14,1034,44.79,Transporte,Cartão de Débito
+49,2024-02-18,1016,319.24,Lazer,Cartão de Crédito
+50,2024-01-22,1047,122.18,Educação,Cartão de Débito
+51,2024-01-07,1037,453.66,Lazer,Pix
+52,2024-01-06,1027,431.22,Alimentação,Dinheiro
+53,2024-01-25,1037,44.72,Alimentação,Dinheiro
+54,2024-01-07,1025,126.62,Educação,Cartão de Crédito
+55,2024-01-23,1023,337.8,Saúde,Dinheiro
+56,2024-02-24,1014,114.98,Saúde,Dinheiro
+57,2024-01-23,1008,74.83,Alimentação,Pix
+58,2024-02-08,1032,468.4,Alimentação,Dinheiro
+59,2024-01-17,1031,289.81,Saúde,Cartão de Crédito
+60,2024-02-21,1005,241.61,Transporte,Cartão de Crédito
+61,2024-01-03,1048,394.46,Saúde,Dinheiro
+62,2024-02-16,1003,405.67,Lazer,Cartão de Débito
+63,2024-01-30,1007,103.3,Transporte,Dinheiro
+64,2024-02-04,1009,57.5,Lazer,Cartão de Crédito
+65,2024-01-08,1040,221.22,Alimentação,Cartão de Crédito
+66,2024-02-29,1010,217.55,Transporte,Pix
+67,2024-01-25,1050,238.84,Lazer,Dinheiro
+68,2024-01-06,1043,367.25,Lazer,Dinheiro
+69,2024-02-05,1027,339.95,Transporte,Pix
+70,2024-01-19,1038,492.24,Educação,Cartão de Crédito
+71,2024-02-23,1004,58.22,Saúde,Pix
+72,2024-02-10,1024,207.28,Lazer,Cartão de Débito
+73,2024-02-09,1024,176.26,Saúde,Dinheiro
+74,2024-02-26,1038,432.22,Saúde,Cartão de Crédito
+75,2024-02-25,1029,131.84,Alimentação,Pix
+76,2024-01-24,1033,103.2,Saúde,Cartão de Crédito
+77,2024-02-06,1016,229.82,Lazer,Cartão de Débito
+78,2024-01-13,1035,216.72,Alimentação,Dinheiro
+79,2024-02-15,1000,146.49,Transporte,Pix
+80,2024-01-05,1043,132.41,Lazer,Cartão de Crédito
+81,2024-01-03,1046,462.4,Alimentação,Dinheiro
+82,2024-02-12,1007,227.13,Alimentação,Dinheiro
+83,2024-01-15,1043,432.06,Saúde,Cartão de Crédito
+84,2024-02-19,1034,279.66,Transporte,Dinheiro
+85,2024-01-19,1048,34.79,Lazer,Dinheiro
+86,2024-01-06,1017,499.65,Lazer,Pix
+87,2024-02-24,1049,419.65,Saúde,Dinheiro
+88,2024-01-15,1041,484.81,Transporte,Pix
+89,2024-02-25,1021,463.92,Lazer,Dinheiro
+90,2024-01-07,1007,425.86,Transporte,Cartão de Débito
+91,2024-01-25,1018,91.49,Lazer,Cartão de Débito
+92,2024-01-18,1027,247.96,Saúde,Pix
+93,2024-01-30,1010,114.74,Educação,Pix
+94,2024-02-10,1029,206.51,Lazer,Cartão de Débito
+95,2024-02-23,1000,38.73,Alimentação,Dinheiro
+96,2024-01-24,1046,195.7,Alimentação,Pix
+97,2024-01-11,1046,492.8,Educação,Cartão de Crédito
+98,2024-01-24,1016,139.95,Lazer,Dinheiro
+99,2024-01-23,1032,394.19,Alimentação,Dinheiro
+100,2024-01-14,1048,232.95,Alimentação,Cartão de Débito
